@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend developer
 -----------------
 
-Python developer passionate about crafting clean, efficient code and building cool projects.
+Python and Jave developer passionate about crafting clean, efficient code and building cool projects.
 
 *   🌍  I'm based in Nairobi, Kenya.
 *   ✉️  You can contact me at [itseliaskeya@gmail.com](mailto:itseliaskeya@gmail.com)
